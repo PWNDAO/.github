@@ -1,5 +1,4 @@
-# PWN DAO
-
+<img src="https://pwn.xyz/icons/pwn-logo.svg" width="100">
 Welcome to the PWN DAO GitHub organization! Here you can find our open-source repositories and follow our progress.
 
 ## About PWN
