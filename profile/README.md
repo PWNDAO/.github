@@ -17,7 +17,8 @@ PWN opens up new liquidity avenues, composability options, and leverage opportun
 2.  [**Token Bundler**](https://github.com/PWNFinance/TokenBundler): The PWN bundler lets you use multiple assets as collateral. The PWN bundler allows you to mix ERC-20 and NFTs.
 3. [**PWN Safe**](https://github.com/PWNFinance/pwn_safe): PWN Safe enables tokenisation of asset transfer rights into an NFT, which can then be used in any DeFi Protocol like PWN. DeFi legos!!
 4.  [**MultiToken**](https://github.com/PWNFinance/MultiToken): Solidity library unifying ERC20, ERC721 & ERC1155 transfers by wrapping them into MultiToken Asset struct.
-5.  [**GM Events**](https://github.com/PWNFinance/gm_events_cities): GM Events a community-organized initiative. We help gather the list of side-events around a conference. Are you an organiser? Reach out! 
+5.  [**GM Events**](https://github.com/PWNFinance/gm_events_cities): GM Events a community-organized initiative. We help gather the list of side-events around a conference. Are you an organiser? Reach out!
+6.  [**Faucet**](https://github.com/PWNFinance/faucet): PWN ERC20, 721 & 1155 faucet contracts.
 
 ## Documentation
 
@@ -30,7 +31,7 @@ We provide extensive documentation to help you understand and contribute to our 
 ## Community and Support
 
 -   **[Discord](https://discord.gg/aWghBQSdHv)**: Join our Discord server to chat with the team and other community members.
--   **[Twitter](https://twitter.com/PWN DAO)** &  **[Farcaster](https://twitter.com/PWN DAO)**: Follow us on for the latest updates and announcements.
+-   **[Twitter](https://twitter.com/PWNDAO) &  [Farcaster](https://twitter.com/PWNDAO)**: Follow us on for the latest updates and announcements.
 -   **[Mirror](https://pwn.mirror.xyz/)**: Subscribe to our blog.
 -   **[App](https://app.pwn.xyz/#)**: Try it out!
 
