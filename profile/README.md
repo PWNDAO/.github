@@ -15,10 +15,9 @@ PWN opens up new liquidity avenues, composability options, and leverage opportun
 
 1.  [**PWN Protocol**](https://github.com/PWNFinance/pwn_contracts): The core protocol powering the PWN DAO ecosystem.
 2.  [**Token Bundler**](https://github.com/PWNFinance/TokenBundler): The PWN bundler lets you use multiple assets as collateral. The PWN bundler allows you to mix ERC-20 and NFTs.
-3. [**PWN Safe**](https://github.com/PWNFinance/pwn_safe): PWN Safe enables tokenisation of asset transfer rights into an NFT, which can then be used in any DeFi Protocol like PWN. DeFi legos!!
+3.  [**PWN Safe**](https://github.com/PWNFinance/pwn_safe): PWN Safe enables tokenisation of asset transfer rights into an NFT, which can then be used in any DeFi Protocol like PWN. DeFi legos!!
 4.  [**MultiToken**](https://github.com/PWNFinance/MultiToken): Solidity library unifying ERC20, ERC721 & ERC1155 transfers by wrapping them into MultiToken Asset struct.
-5.  [**GM Events**](https://github.com/PWNFinance/gm_events_cities): GM Events a community-organized initiative. We help gather the list of side-events around a conference. Are you an organiser? Reach out!
-6.  [**Faucet**](https://github.com/PWNFinance/faucet): PWN ERC20, 721 & 1155 faucet contracts.
+5.  [**Faucet**](https://github.com/PWNFinance/faucet): PWN ERC20, 721 & 1155 faucet contracts.
 
 ## Documentation
 
